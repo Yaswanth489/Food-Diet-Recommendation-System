@@ -74,7 +74,7 @@ Install the **required dependencies** using **FastAPI_Backend** by running **pip
 
 Run the **FastAPI_Backend** using **python -m uvicorn main:app --reload**
                                                                        
-Run the **Streamlit_Frontend** by using **python -m streamlit run Hello.py**
+Run the **Streamlit_Frontend** by using **python -m streamlit run Hello.py** On New Terminal
 
 Then open **http://localhost:8501**
 
